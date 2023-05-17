@@ -1,9 +1,9 @@
-ssh swindell@localhost -p 2202 | ssh swindell@127.0.0.1 -p 2207 - подключение убунты к терминалу
-sudo mount -t vboxsf DO6_CICD-0 /home/swindell/cicd/ - подключение общей папки
+ssh name@localhost -p 2202 | ssh name@127.0.0.1 -p 2207 - подключение убунты к терминалу
+sudo mount -t vboxsf DO6_CICD-0 /home/name/cicd/ - подключение общей папки
 https://medium.com/macoclock/share-folder-between-macos-and-ubuntu-4ce84fb5c1ad
-https://bony-tune-0ce.notion.site/07_Linux_Monitoring-9c970e8114e34e9a95bfb888d5f3964d - записи Гали по мониторингу
-https://bony-tune-0ce.notion.site/06_Linux_Network-01aceaa5d6cf46c0aaf59ae2f29301a7 - записи Гали по нетворку
-https://miran.ru/nastrojka-ssh-dlya-ubuntu - когда какая-то параша с терминалом
+https://bony-tune-0ce.notion.site/07_Linux_Monitoring-9c970e8114e34e9a95bfb888d5f3964d - записи по мониторингу
+https://bony-tune-0ce.notion.site/06_Linux_Network-01aceaa5d6cf46c0aaf59ae2f29301a7 - записи по нетворку
+https://miran.ru/nastrojka-ssh-dlya-ubuntu - когда что-то не так с терминалом
 
 
 https://habr.com/ru/post/498436/ - немного про CICD
