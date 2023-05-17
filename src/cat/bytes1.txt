@@ -1,0 +1,55 @@
+? is 160 a0
+! is 33 21		? is 161 a1
+" is 34 22		? is 162 a2
+# is 35 23		? is 163 a3
+$ is 36 24		? is 164 a4
+% is 37 25		? is 165 a5
+& is 38 26		? is 166 a6
+' is 39 27		? is 167 a7
+		( is 40 28		? is 168 a8
+) is 41 29		? is 169 a9
+* is 42 2a		? is 170 aa
++ is 43 2b		? is 171 ab
+	, is 44 2c		? is 172 ac
+- is 45 2d		? is 173 ad
+. is 46 2e		? is 174 ae
+		/ is 47 2f		? is 175 af
+
+	
+0 is 48 30		? is 176 b0
+1 is 49 31		? is 177 b1
+2 is 50 32		? is 178 b2
+3 is 51 33		? is 179 b3
+4 is 52 34		? is 180 b4
+5 is 53 35		? is 181 b5
+6 is 54 36		? is 182 b6
+7 is 55 37		? is 183 b7
+
+
+8 is 56 38		? is 184 b8
+9 is 57 39		? is 185 b9
+: is 58 3a		? is 186 ba
+; is 59 3b		? is 187 bb
+< is 60 3c		? is 188 bc
+= is 61 3d		? is 189 bd
+
+
+> is 62 3e		? is 190 be
+? is 63 3f		? is 191 bf
+@ is 64 40		? is 192 c0
+A is 65 41		? is 193 c1
+
+
+
+
+
+
+B is 66 42		? is 194 c2
+C is 67 43		? is 195 c3
+D is 68 44		? is 196 c4
+E is 69 45		? is 197 c5
+F is 70 46		? is 198 c6
+G is 71 47		? is 199 c7
+H is 72 48		? is 200 c8
+
+

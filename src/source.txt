@@ -1,0 +1,40 @@
+ssh swindell@localhost -p 2202 | ssh swindell@127.0.0.1 -p 2207 - подключение убунты к терминалу
+sudo mount -t vboxsf DO6_CICD-0 /home/swindell/cicd/ - подключение общей папки
+https://medium.com/macoclock/share-folder-between-macos-and-ubuntu-4ce84fb5c1ad
+https://bony-tune-0ce.notion.site/07_Linux_Monitoring-9c970e8114e34e9a95bfb888d5f3964d - записи Гали по мониторингу
+https://bony-tune-0ce.notion.site/06_Linux_Network-01aceaa5d6cf46c0aaf59ae2f29301a7 - записи Гали по нетворку
+https://miran.ru/nastrojka-ssh-dlya-ubuntu - когда какая-то параша с терминалом
+
+
+https://habr.com/ru/post/498436/ - немного про CICD
+
+1:
+    Установка gitlab-runner:
+        https://docs.gitlab.com/runner/install/linux-manually.html
+        https://blog.bissquit.com/unix/ustanovka-i-registratsiya-gitlab-runner/
+        https://linux-notes.org/ustanovka-gitlab-runner-a-v-unix-linux/
+        https://losst.pro/nastrojka-gitlab-ci-cd - gitlab-runner verify
+        https://900913.ru/tldr/common/en/gitlab-runner/
+        https://www.dmosk.ru/miniinstruktions.php?mini=gitlab-runner-web
+
+2:
+    .gitlab-ci.yml:
+        https://www.dmosk.ru/miniinstruktions.php?mini=gitlab-pipeline
+        https://blog.rvalitov.ru/development/git/nastrojka-ci-v-gitlab-gitlab-ci-yml/
+
+5:
+    https://help.reg.ru/support/servery-vps/oblachnyye-servery/rabota-s-serverom/kopirovaniye-faylov-cherez-ssh
+
+
+6:
+    Скрипт для бота:
+        https://ru.wikipedia.org/wiki//dev/null
+        https://habr.com/ru/post/530412/
+        https://habr.com/ru/post/483318/
+
+    Curl:
+        https://losst.pro/kak-polzovatsya-curl
+        https://www.opennet.ru/cgi-bin/opennet/man.cgi?topic=curl&category=1 - flag -d
+
+    Переменные окружения в gitlab:
+        https://coderlessons.com/tutorials/devops/vyuchit-gitlab/gitlab-peremennye-ci-cd
